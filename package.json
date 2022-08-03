@@ -1,0 +1,13 @@
+{
+  "name": "node-red-contrib-hass-flow",
+  "version": "0.1.1",
+  "description": "Make a flow control from Home Assistant by make this node as receiver node",
+  "node-red": {
+    "nodes": {
+        "HASS Flow": "subflow.js"
+    }
+  },
+
+  "author": "RACKSYNC CO., LTD. <jack@racksync.com>",
+  "license": "MIT"
+}
