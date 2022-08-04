@@ -58,7 +58,7 @@
         ],
         "meta": {
             "module": "@racksync/node-red-contrib-hass-flow",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "author": "RACKSYNC CO., LTD. <jack@racksync.com>",
             "desc": "Make this node as traffic/flows toggle node via Home Assistant Entity (input_boolean)",
             "keywords": "Home Assistant, HASS, RACKSYNC, Flow, Input Boolean",
