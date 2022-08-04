@@ -1,10 +1,14 @@
 {
-  "name": "node-red-contrib-hass-flow",
-  "version": "0.1.1",
-  "description": "Make a flow control from Home Assistant by make this node as receiver node",
+  "name": "@racksync/node-red-contrib-hass-flow",
+  "version": "1.0.0",
+  "description": "Make you Home Assistant instance easier to implement by all these extension node",
+  "dependencies": {
+  },
+  "keywords": [ "node-red","Home Assistant", "HASS", "RACKSYNC" ],
   "node-red": {
+    "version": ">=2.0.0",
     "nodes": {
-        "HASS Flow": "subflow.js"
+        "Flow Toggle": "flows/flow-toggle.js"
     }
   },
 

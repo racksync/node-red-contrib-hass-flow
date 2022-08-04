@@ -1,9 +1,9 @@
     {
         "id": "3e85e6a5f3bc71b9",
         "type": "subflow",
-        "name": "HASS Flow",
-        "info": "Make a flow control from Home Assistant by make this node as receiver node",
-        "category": "RACKBUS",
+        "name": "Flow Toggle",
+        "info": "Make this node as traffic/flows toggle node via Home Assistant Entity (input_boolean)",
+        "category": "RACKSYNC",
         "in": [
             {
                 "x": 240,
@@ -57,12 +57,12 @@
             }
         ],
         "meta": {
-            "module": "node-red-contrib-racksync-hass-flow",
-            "version": "0.1.1",
+            "module": "@racksync/node-red-contrib-hass-flow",
+            "version": "1.0.0",
             "author": "RACKSYNC CO., LTD. <jack@racksync.com>",
-            "desc": "Make a flow control from Home Assistant by make this node as receiver node",
-            "keywords": "Home Assistant, HASS, RACKSYNC, Flow, Input Boolean, Flow",
-            "license": "Apache-2.0"
+            "desc": "Make this node as traffic/flows toggle node via Home Assistant Entity (input_boolean)",
+            "keywords": "Home Assistant, HASS, RACKSYNC, Flow, Input Boolean",
+            "license": "MIT"
         },
         "color": "#befc03",
         "inputLabels": [
