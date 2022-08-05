@@ -10,6 +10,12 @@ You can install the nodes using "Manage palette" from node-red kebab menu or run
 ```
 npm install node-red-contrib-hass-flow --save
 ```
+
+### Package Repository
+
+- [flows](https://flows.nodered.org/node/@racksync/node-red-contrib-hass-flow)
+- [npmjs](https://www.npmjs.com/package/@racksync/node-red-contrib-hass-flow/access)
+
 ### Node
 
 - Flow Toggle

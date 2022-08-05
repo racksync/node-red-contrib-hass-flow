@@ -1,8 +1,13 @@
 {
   "name": "@racksync/node-red-contrib-hass-flow",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Make you Home Assistant instance easier to implement by all these extension node",
+  "homepage": "https://github.com/racksync/node-red-contrib-hass-flow",
+  "bugs": {
+    "url": "https://github.com/racksync/node-red-contrib-hass-flow/issues"
+  },
   "dependencies": {
+    "node-red-contrib-traffic": ">=0.2.1"
   },
   "keywords": [ "node-red","Home Assistant", "HASS", "RACKSYNC" ],
   "node-red": {
