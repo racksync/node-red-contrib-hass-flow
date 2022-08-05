@@ -1,5 +1,8 @@
 ### CHANGELOG
 
+## 1.0.5
+ - fix typo
+
 ## 1.0.4
  - add screenshot
 
