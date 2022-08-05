@@ -3,6 +3,9 @@
 [![Platform](https://img.shields.io/badge/platform-Node--RED-red)](https://nodered.org)
 [![node-red-contrib-hass-flow](https://img.shields.io/github/v/release/racksync/node-red-contrib-hass-flow)](https://github.com/racksync/node-red-contrib-hass-flow/releases) [![last commit](https://img.shields.io/github/last-commit/racksync/node-red-contrib-hass-flow)](https://github.com/racksync/node-red-contrib-hass-flow/commit/)
 
+![racksync-screenshot](https://github.com/racksync/node-red-contrib-hass-flow/blob/main/screenshot.png?raw=true)
+
+
 # Installation
 
 You can install the nodes using "Manage palette" from node-red kebab menu or run the following command in the root directory of your Node-RED installation
@@ -10,6 +13,10 @@ You can install the nodes using "Manage palette" from node-red kebab menu or run
 ```
 npm install node-red-contrib-hass-flow --save
 ```
+
+# Easy to Use
+
+Put "Toggle" entity from input_boolean into input together with base flow, Now you can easier toggle from Home Assistant UI then.
 
 ### Package Repository
 

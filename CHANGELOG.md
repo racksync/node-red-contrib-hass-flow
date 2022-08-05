@@ -1,5 +1,8 @@
 ### CHANGELOG
 
+## 1.0.4
+ - add screenshot
+
 ## 1.0.3
 
  - add actions
