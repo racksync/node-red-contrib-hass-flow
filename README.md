@@ -15,16 +15,13 @@ npm install node-red-contrib-hass-flow --save
 
 Put "Toggle" entity from input_boolean into input together with base flow, Now you can easier toggle from Home Assistant UI then.
 
-![racksync-screenshot](https://github.com/racksync/node-red-contrib-hass-flow/blob/main/screenshot.png?raw=true)
+![racksync-screenshot](https://github.com/racksync/node-red-contrib-hass-flow/blob/main/images/screenshot.png?raw=true)
 
-### Package Repository
-
+### Node-RED Node by RACKSYNC
 - [flows](https://flows.nodered.org/node/@racksync/node-red-contrib-hass-flow)
-- [npmjs](https://www.npmjs.com/package/@racksync/node-red-contrib-hass-flow/access)
+- [Tradfri Remote](https://flows.nodered.org/node/@racksync/node-red-contrib-hass-tradfri-remote)
 
-### Node
-
-- Flow Toggle
+![racksync-node](https://github.com/racksync/node-red-contrib-hass-tradfri-remote/blob/main/images/nodes.png?raw=true)
 
 ### Tips
 
@@ -42,7 +39,7 @@ We helps our customers to create life easier across the border of entire technol
 \
 \
 RACKSYNC COMPANY LIMITED \
-Suratthani, Thailand 84000 \
+Suratthani, Thailand \
 Email : devops@racksync.com \
 Tel : +66 85 880 8885 
 
