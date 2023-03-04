@@ -18,7 +18,7 @@ Put "Toggle" entity from input_boolean into input together with base flow, Now y
 ![racksync-screenshot](https://github.com/racksync/node-red-contrib-hass-flow/blob/main/images/screenshot.png?raw=true)
 
 ### Node-RED Node by RACKSYNC
-- [flows](https://flows.nodered.org/node/@racksync/node-red-contrib-hass-flow)
+- [Toggle Flows](https://flows.nodered.org/node/@racksync/node-red-contrib-hass-flow)
 - [Tradfri Remote](https://flows.nodered.org/node/@racksync/node-red-contrib-hass-tradfri-remote)
 
 ![racksync-node](https://github.com/racksync/node-red-contrib-hass-tradfri-remote/blob/main/images/nodes.png?raw=true)
